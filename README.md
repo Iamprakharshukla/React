@@ -21,17 +21,8 @@ This repo includes:
 
 Everything I learn while mastering React is recorded here.
 
-🗂 Folder Structure
-React/
-│
-├── Day1/
-│   └── notes.md
-├── Day2/
-│   └── notes.md
-├── components/
-│   └── example-component.jsx
-└── README.md
 
+![alt text](image.png)
 
 (You can adjust based on your workflow.)
 
