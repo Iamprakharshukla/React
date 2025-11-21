@@ -1,16 +1,102 @@
-# React + Vite
+🚀 React Learning Journey
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my daily learning, practice, and experiments in React.js.
+I created this repo to track my progress, stay consistent, and build strong React skills step-by-step.
 
-Currently, two official plugins are available:
+📘 About This Repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This repo includes:
 
-## React Compiler
+✔ Daily notes
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✔ React concepts with explanations
 
-## Expanding the ESLint configuration
+✔ Practice components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✔ Mini-projects / assignments
+
+✔ Errors & fixes
+
+✔ Useful resources
+
+Everything I learn while mastering React is recorded here.
+
+🗂 Folder Structure
+React/
+│
+├── Day1/
+│   └── notes.md
+├── Day2/
+│   └── notes.md
+├── components/
+│   └── example-component.jsx
+└── README.md
+
+
+(You can adjust based on your workflow.)
+
+🎯 Goals of This Project
+
+Become comfortable with React fundamentals
+
+Understand hooks like useState, useEffect, useContext
+
+Work on reusable components
+
+Build complete React projects
+
+Improve frontend problem-solving
+
+Maintain daily discipline & consistency
+
+📅 Daily Learning Format
+
+Each day includes:
+
+🔹 What I learned
+
+🔹 Code snippets
+
+🔹 Errors I faced
+
+🔹 Fixes & improvements
+
+🔹 Practice tasks
+
+🛠 Tech Stack
+
+React.js
+
+JavaScript (ES6+)
+
+Vite / CRA (depending on project)
+
+HTML & CSS
+
+Node.js (optional)
+
+Git & GitHub
+
+🌱 How to Use This Repo
+
+If you are learning React too:
+
+Clone the repo
+
+git clone https://github.com/Iamprakharshukla/React.git
+
+
+Explore day-wise folders
+
+Run examples or copy snippets
+
+Learn along!
+
+🤝 Contributions
+
+This is my personal learning repository, but if you find an improvement,
+feel free to open an issue or suggest something!
+
+⭐ Support
+
+If you find anything helpful, consider giving this repo a star ⭐.
