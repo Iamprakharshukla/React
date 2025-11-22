@@ -1,11 +1,17 @@
+import UserComponent ,{UserAddress,UserDetails} from './UserComponent.jsx';
+import JSX from './JSX.jsx';
 function App() {
   return (
     <div>
       <h1>Hello</h1>
+      <UserComponent />
+      {<UserDetails />}
+      <UserAddress />
       <Name />
       <Age />
+      <JSX />
     </div>
-  );
+  )
 }
 
 function Name() {
@@ -23,5 +29,10 @@ function Age() {
     </div>
   );
 }
+
+
+
+
+
 
 export default App;
